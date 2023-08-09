@@ -1,3 +1,5 @@
+***Due to the rules of 42, I cannot publish my codes.***
+
 | Projects / Exams | Ranks  |
 | :---         |     :---:      | 
 | **$${\color{cyan}C00}$$**   |:white_check_mark: <br> **$${\color{greenyellow}70}$$**|
